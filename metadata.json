@@ -1,0 +1,7 @@
+{
+  "name": "Caterly - Catering Management Platform",
+  "description": "A comprehensive catering management system for customers to find restaurants and owners to manage orders, invoices, and restaurant onboarding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
